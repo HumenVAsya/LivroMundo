@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "“Dom Casmurro”",
+    "cost": 50,
+    "img": "images/image1.png",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "title": "“The Power of Habit”",
+    "cost": 60,
+    "img": "images/image2.png",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "title": "“O Menino Maluquinho”",
+    "cost": 70,
+    "img": "images/image3.png",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "title": "“A Hora da Estrela”",
+    "cost": 30,
+    "img": "images/image4.png",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "title": "“Cidade de Deus”",
+    "cost": 90,
+    "img": "images/image5.png",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "title": "“Macunaíma”",
+    "cost": 45,
+    "img": "images/image6.png",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "title": "“A Bolsa Amarela”",
+    "cost": 50,
+    "img": "images/image7.png",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "title": "“A Bolsa Amarela”",
+    "cost": 85,
+    "img": "images/image8.png",
+    "quantity": 1
+  }
+]
