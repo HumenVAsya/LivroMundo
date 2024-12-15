@@ -1,7 +1,9 @@
 
 # Test Offerwall
 
-This is a web application for a test offerwall project built with React, TypeScript, and Vite.
+This project exemplifies my proficiency in leveraging these technologies to develop high-quality web applications. I am confident that my skills and experience in using React, Material UI, Zustand, React Hook Form, and Vite make me well-equipped to contribute effectively to your team.
+
+Thank you for considering my application. I am looking forward to the opportunity to discuss how my background, skills, and enthusiasm can align with your needs. Please feel free to contact me at your earliest convenience to schedule an interview.
 
 ## Project Setup
 
