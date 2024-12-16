@@ -1,5 +1,4 @@
 
-# Test Offerwall
 
 This project exemplifies my proficiency in leveraging these technologies to develop high-quality web applications. I am confident that my skills and experience in using React, Material UI, Zustand, React Hook Form, and Vite make me well-equipped to contribute effectively to your team.
 
